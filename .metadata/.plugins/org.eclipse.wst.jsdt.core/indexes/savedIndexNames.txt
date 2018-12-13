@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\matos\OneDrive\Documentos\stock\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+480474788.index
+833752279.index
+2083283342.index
+3830253080.index
+3517415154.index
+3748850751.index
